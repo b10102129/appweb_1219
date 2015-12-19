@@ -1,0 +1,34 @@
+
+h1 {
+	color: #FFFFFF;
+	font-size: 48pt;
+	text-align: center;
+	display: flex;
+
+
+}
+h2{
+	color:#00F;
+	text-align: center;
+	display: flex;
+}
+p {
+	color:#FFFFFF;
+	font-size: 9pt;
+	border: 1px soild #FFFFFF ;
+	font-weight: 800;
+	margin-top:25px ;
+	padding-bottom: 20px
+}
+body{
+	height: 100vh;
+	background: url(https://upload.wikimedia.org/wikipedia/commons/f/f0/Full_Moon_as_Seen_From_Denmark.jpg);
+	background.position: center;
+	background-size:cover;
+}
+article{
+	max-width: 700px;
+	color: #FFFFFF
+	margin: 0 auto;
+	font-size: 9px
+}
